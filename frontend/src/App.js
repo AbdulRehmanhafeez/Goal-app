@@ -11,8 +11,6 @@ function App() {
   
   return (
     <>
-    
-
      <BrowserRouter>
   sd
       <div className='container'>
